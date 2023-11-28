@@ -1,10 +1,27 @@
-# DC
+#DC
 
 Computer Science Department Website
-Welcome to the official repository for the Computer Science Department website at [Your School Name]. This website serves as a platform to showcase the department's activities, courses, events, and more.
+Welcome to the official repository for the Computer Science Department website at University of Ghana. This website serves as a platform to showcase the department's activities, courses, events, and more.
 
+Features
 Home Page
 The home page introduces visitors to the Computer Science Department. It provides an overview of the department's mission, vision, and highlights recent achievements. Users can navigate to different sections from here.
+
+Blog
+The blog section hosts a collection of articles, news, and updates related to the field of computer science. It covers a wide range of topics including emerging technologies, student projects, faculty research, and industry trends.
+
+Events
+This section highlights past and upcoming events organized by the department. Users can find details about workshops, seminars, hackathons, and other activities. Event registration and schedules are accessible through this section.
+
+Courses
+Information about courses offered by the department is available here. Visitors can explore the curriculum, course descriptions, prerequisites, and resources related to each course. Syllabi and recommended reading materials are also provided.
+
+News
+This section provides you with rising issues and upcoming programs
+
+Technologies Used
+Frontend: HTML5, CSS.
+
 
 ![Capture](https://github.com/josephineakakpo/DCIT_205_IA/assets/149782254/fbd4dd14-581b-4702-a462-148bbe41aac7)
 
@@ -29,54 +46,5 @@ The home page introduces visitors to the Computer Science Department. It provide
 
 
 
-Blog
-Th!
-[Uploading 1.PNG…]()
 
 
-
-e blog section hosts a collection of articles, news, and updates related to the field of computer science. It covers a wide range of topics including emerging technologies, student projects, faculty research, and industry trends.
- 
-Events
-This section highlights past and upcoming events organized by the department. Users can find details about workshops, seminars, hackathons, and other activities. Event registration and schedules are accessible through this section.
- 
-Courses
-Information about courses offered by the department is available here. Visitors can explore the curriculum, course descriptions, prerequisites, and resources related to each course. Syllabi and recommended reading materials are also provided.
- 
-More
-Additional sections may include resources for students, information about faculty members, alumni testimonials, and departmental achievements.
- 
-Technologies Used
-Frontend: HTML5, CSS3, JavaScript (jQuery)
-Backend: (Specify if applicable)
-Frameworks/Libraries: Bootstrap for responsive design, FontAwesome for icons
-Getting Started
-To run the website locally, follow these steps:
- 
-Clone this repository using git clone [repository link].
-Open the index.html file in a web browser to navigate through the website.
-Folder Structure
-index.html: Main homepage file.
-css/: Contains stylesheets.
-js/: JavaScript files.
-blog/: Stores blog articles.
-events/: Contains event details.
-courses/: Information about courses.
-How to Contribute
-Contributions to enhance the website are welcome! To contribute:
- 
-Fork this repository.
-Create a new branch for your changes.
-Make modifications or add new features.
-Submit a pull request describing your changes.
-Credits
-[Your Name]: Developer/Designer
-[List any other contributors]
-License
-This project is licensed under the [License Name, if applicable]. (Include license file if necessary)
- 
-Contact
-For any inquiries, feedback, or issues, contact [Your Email Address].
- ![ww](https://github.com/josephineakakpo/DCIT_205_IA/assets/149782254/b039a815-bef5-4a1a-aeba-fa88e119241b)
-
-Feel free to modify or add more sections based on the specific functionalities or unique aspects of your website!
